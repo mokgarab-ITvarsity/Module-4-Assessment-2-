@@ -14,11 +14,10 @@ body{
     top: 0px;
 }
 
-#grid1-1-draggable{
+#img1-1-draggable{
     position: absolute;
-    right: 0px;
+    left: 750px;
     top: 0px;
-    transform: scale(0.3);
 }
 
 /*==================== GRID1-2 ====================*/
@@ -29,11 +28,10 @@ body{
     top: 0px;
 }
 
-#grid1-2-draggable{
+#img1-2-draggable{
     position: absolute;
-    right: 200px;
-    top: 0px;
-    transform: scale(0.3);
+    left: 900px;
+    top: 0;
 }
 
 /*==================== GRID1-3 ====================*/
@@ -44,11 +42,10 @@ body{
     top: 0px;
 }
 
-#grid1-3-draggable{
+#img1-3-draggable{
     position: absolute;
-    right: 400px;
-    top: 0px;
-    transform: scale(0.3);
+    left: 1050px;
+    top: 0;
 }
 
 /*==================== GRID2-1 ====================*/
@@ -59,11 +56,10 @@ body{
     top: 200px;
 }
 
-#grid2-1-draggable{
+#img2-1-draggable{
     position: absolute;
-    right: 0px;
-    top: 200px;
-    transform: scale(0.3);
+    left: 750px;
+    top: 170px;
 }
 
 /*==================== GRID2-2 ====================*/
@@ -74,11 +70,10 @@ body{
     top: 200px;
 }
 
-#grid2-2-draggable{
+#img2-2-draggable{
     position: absolute;
-    right: 200px;
-    top: 200px;
-    transform: scale(0.3);
+    left: 960px;
+    top: 280px;
 }
 
 /*==================== GRID2-3 ====================*/
@@ -89,11 +84,10 @@ body{
     top: 200px;
 }
 
-#grid2-3-draggable{
+#img2-3-draggable{
     position: absolute;
-    right: 400px;
-    top: 200px;
-    transform: scale(0.3);
+    left: 1100px;
+    top: 260px;
 }
 
 /*==================== GRID3-1 ====================*/
@@ -104,11 +98,10 @@ body{
     top: 400px;
 }
 
-#grid3-1-draggable{
+#img3-1-draggable{
     position: absolute;
-    right: 0px;
-    top: 400px;
-    transform: scale(0.3);
+    left: 700px;
+    top: 310px;
 }
 
 /*==================== GRID3-2 ====================*/
@@ -119,11 +112,10 @@ body{
     top: 400px;
 }
 
-#grid3-2-draggable{
+#img3-2-draggable{
     position: absolute;
-    right: 200px;
-    top: 400px;
-    transform: scale(0.3);
+    left: 900px;
+    top: 220px;
 }
 
 /*==================== GRID3-3 ====================*/
@@ -134,9 +126,8 @@ body{
     top: 400px;
 }
 
-#grid3-3-draggable{
+#img3-3-draggable{
     position: absolute;
-    right: 400px;
-    top: 400px;
-    transform: scale(0.3);
+    left: 1100px;
+    top: 440px;
 }
